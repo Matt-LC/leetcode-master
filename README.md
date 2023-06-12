@@ -1,4 +1,3 @@
-
 👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
 👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
 
@@ -21,7 +20,7 @@
 
 # LeetCode 刷题攻略
 
-## 刷题攻略的背景
+## 刷题攻略的引言
 
 很多刚开始刷题的同学都有一个困惑：面对leetcode上近两千道题目，从何刷起。
 
